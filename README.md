@@ -14,3 +14,5 @@ Tensorflow, OpenCV (cv2), Pygame, Numpy, Matplotlib
 - Draw on the display window
   - Press Space to get output
   - Press "x" to clear window
+
+![demo](https://user-images.githubusercontent.com/99869931/236658917-43e59d7e-27dd-4084-b2da-4517d547d46c.png)
